@@ -17,6 +17,8 @@
 * Removed Favicon option
 * Theme options panel optimization
 
+labas rytas
+
 = Version 1.5.9 =
 * Display default header menu
 
